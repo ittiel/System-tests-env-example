@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.otoma.envTest.TestPerEnv
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.051 s <<< FAILURE! - in com.otoma.envTest.TestPerEnv
+initializationError(com.otoma.envTest.TestPerEnv)  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.Exception: Method main should have no parameters
+
